@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\rasmus\documents\visual studio 2015\projects\connectionism\connectionism ai\connectionism ai\main.cpp(66): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Connectionism AI.vcxproj -> C:\Users\Rasmus\Documents\Visual Studio 2015\Projects\Connectionism\Connectionism AI\x64\Debug\Connectionism AI.exe
+  Connectionism AI.vcxproj -> C:\Users\Rasmus\Documents\Visual Studio 2015\Projects\Connectionism\Connectionism AI\x64\Debug\Connectionism AI.pdb (Partial PDB)
